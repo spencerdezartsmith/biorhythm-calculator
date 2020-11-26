@@ -1,0 +1,15 @@
+.biorhythm-card .physical {
+  color: red;
+}
+
+.biorhythm-card .emotional {
+  color: green;
+}
+
+.biorhythm-card .intellectual {
+  color: blue;
+}
+
+.biorhythm-card p {
+  line-height: normal;
+}
